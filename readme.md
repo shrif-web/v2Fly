@@ -1,7 +1,7 @@
 # V2fly
 ## Server
-
-note that the config is set to circumvent sanctions and may not be appropriate for other uses. if your targets work with google auth service we are suggesting that run the app on a server located in America / Canada and use Socks5.<br>
+---
+note that the config is set to circumvent sanctions and may not be appropriate for other uses. if your targets work with google auth service we are suggesting that run the app on a server located in America / Canada and use Socks5.<br><br>
 ![alt text](./google-403.png)
 ---
 
