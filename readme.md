@@ -32,8 +32,9 @@ run `./v2ray --config=config.json`  <br>
 http proxy on ``localhost:10809`` <br>
 socks5 on `localhost:10808` <br>
 
-<a href="https://computingforgeeks.com/how-to-set-system-wide-proxy-on-ubuntu-debian/" >How To Set System Proxy on Ubuntu 20.04/18.04 | Debian 10</a> <br>
-<a href="https://www.jetbrains.com/help/idea/settings-http-proxy.html" >JetBrains Products Proxy Config</a>
+<a href="https://computingforgeeks.com/how-to-set-system-wide-proxy-on-ubuntu-debian/" >How To Set System-Wide Proxy on Ubuntu 20.04/18.04 | Debian 10</a> <br>
+<a href="https://www.jetbrains.com/help/idea/settings-http-proxy.html" >JetBrains Products Proxy Config</a><br>
+<a href="https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=en" >switchy-omega chrome extension</a>
 
 
 ## Android
